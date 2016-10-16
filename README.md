@@ -45,3 +45,5 @@ Hardware: Ricoh Theta S
 
 - The video in this example: [Pokèmon 360 - CATCH 'EM ALL in VR!](https://www.youtube.com/watch?v=pHUVS_GrIeM) by Freakin Rad.
 - [youtude-dl](https://rg3.github.io/youtube-dl/) is a great program to download YouTube video including 360 videos.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/play360videosunity)
